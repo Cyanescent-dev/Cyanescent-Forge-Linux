@@ -1,0 +1,36 @@
+{
+  "architecture" : "x86_64",
+  "frames" : [
+    {
+      "frame" : 0,
+      "sections" : {
+        "camera" : "0310d48119ac5f0547d42ab6552da33b717b99a8c81d7275ae3b1ac2acb3feb5",
+        "frame" : "9c839b836a09383ec2651fadd7a70539d12454b82606f379b8fa60dc5ae264cc",
+        "loopClosure" : "3e7077fd2f66d689e0cee6a7cf5b37bf2dca7c979af356d0a31cbc5c85605c7d",
+        "sceneParams" : "79ed08ff1ad0c477f0b2721c473d302f1952f3612b7b3ef201d31c8c4ca7212b"
+      },
+      "sectionsNotComputed" : [
+        "project"
+      ],
+      "snapshotSHA256" : null
+    },
+    {
+      "frame" : 300,
+      "sections" : {
+        "camera" : "ddf954f074b2c6a6f8cd9d67ba2b8cb90de69391a7355a45ed4c8a231807161f",
+        "frame" : "70a6e11d331556fbd40a528eb86ff31804c43b63f74184ea54fafd4fbfb805ac",
+        "loopClosure" : "3e7077fd2f66d689e0cee6a7cf5b37bf2dca7c979af356d0a31cbc5c85605c7d",
+        "sceneParams" : "8b84982492af2db3be5556dd9ad0e45cde74944262ed739af7bd306b38983ba7"
+      },
+      "sectionsNotComputed" : [
+        "project"
+      ],
+      "snapshotSHA256" : null
+    }
+  ],
+  "hashing" : "SHA-256 of a canonical little-endian field-by-field serialization (SnapshotHash.swift / SnapshotHash.cpp); compare per section — the project section is not computed on Linux",
+  "os" : "Ubuntu 24.04.4 LTS; Linux 6.18.44-fc-v42",
+  "sourceRevision" : "361bf94-modified",
+  "workerVersion" : "linux-vulkan-0.1",
+  "world" : "mandelnewton.world"
+}
